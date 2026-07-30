@@ -1,0 +1,13 @@
+{
+  "rows": 30000,
+  "top_score": 0.9999999999999999,
+  "median_score": 0.44999999999999996,
+  "declining_rate_top_10": 1.0,
+  "declining_rate_top_20": 0.9,
+  "score_weights": {
+    "visibility_flag": 0.35,
+    "stale_flag": 0.3,
+    "position_visible_flag": 0.25,
+    "low_ctr_flag": 0.1
+  }
+}
